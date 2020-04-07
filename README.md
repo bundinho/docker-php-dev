@@ -1,8 +1,9 @@
 Docker PHP dev
 ==============
+This is a fork from https://github.com/eugenesia/docker-php-dev
 
 This is an basic setup for a PHP development environment using [Docker and
-PHPFarm](https://github.com/eugenesia/docker-phpfarm).
+PHPFarm](https://github.com/bundinho/docker-phpfarm).
 
 Usage
 -----
